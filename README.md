@@ -6,7 +6,7 @@ The bank dataset encompasses a wide range of information, including customer dat
 ## Skills: 
 data cleaning, data analysis, DAX, Creating Measure, and data visualization.
 
-## Technology: POWER BI.
+## Technology: SQL, POWER BI.
 
 ## GOAL 
 The goal is to obtain a comprehensive overview of the customer base that has utilized housing loans, enabling the bank to better tailor its products, services, and marketing strategies. 
